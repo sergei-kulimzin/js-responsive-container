@@ -14,7 +14,6 @@ npm install js-responsive-container
 ```html
 <div class="container">
   <p>Some content</p>
-  <p></p>
 </div>
 ```
 
