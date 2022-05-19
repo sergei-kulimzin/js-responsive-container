@@ -1,0 +1,28 @@
+{
+  "name": "responsive-container",
+  "version": "1.0.0",
+  "description": "Simple responsive container with javascript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "responsive",
+    "container",
+    "responsive container"
+  ],
+  "bugs": {
+    "email": "kulimzin.sergei@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergei-kulimzin/responsive-container"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Kulimzin Sergei",
+    "email": "kulimzin.sergei@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {}
+}
