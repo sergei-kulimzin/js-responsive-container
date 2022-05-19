@@ -26,7 +26,7 @@ const container = new ResponsiveContainer();
 container.add();
 ```
 
-## Options:
+## Options
 
 #### **new ResponsiveContainer(options)**
 
