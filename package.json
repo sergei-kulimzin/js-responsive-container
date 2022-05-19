@@ -1,6 +1,6 @@
 {
   "name": "js-responsive-container",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple responsive container with javascript",
   "main": "index.js",
   "scripts": {},
