@@ -6,7 +6,7 @@
 
 ```js
 // install with npm
-npm install responsive-container
+npm install js-responsive-container
 ```
 
 ## Usage
