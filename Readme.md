@@ -19,7 +19,7 @@ npm install responsive-container
 ```
 
 ```js
-import ResponsiveContainer from 'responsive-container';
+import ResponsiveContainer from 'js-responsive-container';
 
 const container = new ResponsiveContainer();
 
